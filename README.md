@@ -5,7 +5,7 @@ Crosstalk Generator for *Natural Language Processing* 2019 Fall @ Fudan Universi
 
 ## What's this
 
-*Crosstalk(相声)* is a traditional Chinese comedic performance in the form of a dialogue. The language, rich in puns and allusions, is used in a rapid, bantering style. Crosstalk is one of China's foremost performing arts. Usually, *the main joker(逗哏)* make the audience laugh with words or expressions and *the assistant joker(捧哏)* plays the supporting role of a crosstalk. In this project, we trained a dialogue model to imitate a well-know crosstalk player, Qian Yu's speaking style. The code is adapted from [this repo](<https://github.com/ywk991112/pytorch-chatbot>).
+*Crosstalk(相声)* is a traditional Chinese comedic performance in the form of a dialogue. The language, rich in puns and allusions, is used in a rapid, bantering style. Crosstalk is one of China's foremost performing arts. Usually, *the main joker(逗哏)* make the audience laugh with words or expressions and *the assistant joker(捧哏)* plays the supporting role of a crosstalk. In this project, we trained a dialogue model to imitate a well-know crosstalk comedian, Qian Yu's speaking style. The code is adapted from [this repo](<https://github.com/ywk991112/pytorch-chatbot>).
 
 ## How to use
 
