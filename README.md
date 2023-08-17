@@ -59,3 +59,13 @@ python main.py -te ./save/model/crosstalk_peng/2-2_256/10000_backup_bidir_model.
 捧： 阿 ？ 好 嘛 ， 哪 年代 的 事儿 了 ？ ？ ！ 您 这
 # 怕不是吃错了药...
 ```
+
+## Citation
+```
+@misc{githubGitHubOxer11CrosstalkGeneration,
+author = {Zuobai Zhang},
+title = {{G}it{H}ub - {O}xer11/{C}rosstalk-{G}eneration: {P}erform crosstalk with {Q}ian {Y}u --- github.com},
+url = {https://github.com/Oxer11/Crosstalk-Generation},
+year = {2020},
+}
+```
